@@ -52,7 +52,7 @@ public class ContactForm extends FormLayout {
         save.setClickShortcut(ShortcutAction.KeyCode.ENTER);
         setVisible(false);
     }
-
+//
     private void buildLayout() {
         setSizeUndefined();
         setMargin(true);
